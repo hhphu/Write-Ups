@@ -65,10 +65,11 @@ Similarly, on the same directory, you'll find schedule.txt. Use the "type" comma
 * Revisit command to rdp a desktop
 * Commands for Windows reconnaissance: 
 
-	> net users - enumerate users
-	>systeminfo | findstr "OS" - enumerate OS information
-	>wmic service list - enumverate services running on Windows
-	>wmic service list | findstr "Iperius" - find a specific service running on Windows
-	
+	```
+	* net users - enumerate users
+	* systeminfo | findstr "OS" - enumerate OS information
+	* wmic service list - enumverate services running on Windows
+	* wmic service list | findstr "Iperius" - find a specific service running on Windows
+	```
 				
 		
