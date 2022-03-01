@@ -8,7 +8,7 @@ Once connect to the desktop, I run net users to see the list of users on the mac
 > net users
 
 From here we see, the list of users on the machine, inlcuding the one starting with p
--> Answer: <span style="background-color: #000; color:#000">pepper</span>
+-> Answer: <span style="background-color: #FFF; color:#FFF">pepper</span>
 
 ----------------------------------------
 2. What is the OS version?
