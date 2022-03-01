@@ -19,7 +19,7 @@ Running the following command will yield the OS version of the machine:
 -> Answer:  <span style="background-color: #000; color:#000">10.0.17763 N/A Build 17763</span>
 
 
-![[./exploit_instructions.png]]
+[[./Files/exploit_instructions.png]]
 
 -------------------------------
 3. What backup service did you find running on the system?
