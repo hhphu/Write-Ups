@@ -18,8 +18,7 @@ Running the following command will yield the OS version of the machine:
 
 -> Answer:  <span style="background-color: #000; color:#000">10.0.17763 N/A Build 17763</span>
 
-exploit_instructions.png
-
+![exploit_instructions](https://github.com/hhphu/Write-Ups/blob/main/TryHackMe/Christmas%20Advent%202021/%5BDay%2013%5D%20Networking%20-%20The%20Lost%20The%20Plan!/Files/exploit_instructions.png)
 
 -------------------------------
 3. What backup service did you find running on the system?
