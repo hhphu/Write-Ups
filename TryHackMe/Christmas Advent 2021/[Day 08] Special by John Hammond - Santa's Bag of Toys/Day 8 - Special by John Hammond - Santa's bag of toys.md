@@ -1,6 +1,7 @@
 **What operating system is Santa's laptop running ("OS Name")?**
 	By going through the log in chronical order, I can easily figure the computer system in one of the log files
-![[THM-Day8-Q1.png]]
+	
+![image](THM-Day8-Q1.png)
 
 -> Answer: Microsoft Windows 11 Pro
 
