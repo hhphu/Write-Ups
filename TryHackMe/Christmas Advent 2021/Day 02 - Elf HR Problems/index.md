@@ -4,6 +4,7 @@ Title: "[Day 02] - Elf HR Problems"
 
 1. What is the name of the new cookie that was created for your account?
 After an attempt to sign up for a new account, I inspect the page on the Applicaiton tab to see the cookie.
+
 ** Stepsto perform **
  * Right click the page and Click "Inspect"
  * Select the "Application" tab
@@ -39,6 +40,7 @@ I can use [CyberChef](https://gchq.github.io/CyberChef/) to decode the cookies.
 
 4. What is the value of the administrator cookie? (username = admin)
 Using the same tool CyberChef, i can get the cookie value of username = admin
+
 ** Step to perform **
  * Go to CyberChef
  * On the left menu, select "To Hex" option
@@ -56,6 +58,7 @@ Using the same tool CyberChef, i can get the cookie value of username = admin
 
 5. What team environment is not responding?
 After getting the cookie value of admin, I can use that to bypass the login authenticaion.
+
 ** Steps to perform**
  * Follow the steps in question 1 to get to the user-auth cookie
  * Replace the current cookie value with the admin's cookie value
