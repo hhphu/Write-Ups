@@ -7,7 +7,7 @@ date: 2021-12-08
 **What operating system is Santa's laptop running ("OS Name")?**
 	By going through the log in chronical order, I can easily figure the computer system in one of the log files
 
-![image](../images/d8q1.png)
+![image](./images/d8q1.png)
 
 -> Answer: Microsoft Windows 11 Pro
 
@@ -16,7 +16,7 @@ date: 2021-12-08
 **What was the password set for the new "backdoor" account?**
 	When investigating other logs, I noticed that the attacker created a second account with a backdoor
 
-![image](../images/d8q2.png)
+![image](./images/d8q2.png)
 
 Here, the attacker used net commands to create a new user and add it to the administrators group.
 
@@ -29,7 +29,7 @@ Here, the attacker used net commands to create a new user and add it to the admi
 -------------------------------------
 **In one of the transcription logs,  the bad actor interacts with the target under the new backdoor user account, and copies a unique file to the Desktop. Before it is copied to the Desktop, what is the full path of the original file?**
 
-![image](../images/d8q3.png)
+![image](./images/d8q3.png)
 
 -> Answer: C:\Users\santa\AppData\Local\Microsoft\Windows\UsrClass.dat
 
@@ -37,7 +37,7 @@ Here, the attacker used net commands to create a new user and add it to the admi
 
 **The actor uses a [Living Off The Land](https://lolbas-project.github.io/lolbas/Binaries/Certutil/) binary (LOLbin) to encode this file, and then verifies it succeeded by viewing the output file. **What is the name of this LOLbin?****
 
-![image](../images/d8q4.png)
+![image](./images/d8q4.png)
 
 -> Answer: certutil.exe
 
