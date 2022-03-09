@@ -38,4 +38,4 @@ On the Grinch activity page, I notice that there are "Revert" buttons. After rev
 -> Answer: THM{AOC_IDOR_2B34BHI3}
 
 
-[Day 2](../"Day 08 - Special by John Hammond - Santa's bag of toys"/index.md)
+[Day 2](../"Day%2008%20-%20Special%20by%20John%20Hammond%20-%20Santa's%20bag%20of%20toys"/index.md)
