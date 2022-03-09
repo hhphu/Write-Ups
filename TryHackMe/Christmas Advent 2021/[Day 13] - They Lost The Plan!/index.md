@@ -1,6 +1,5 @@
 ---
 title: "[Day 13] - They Lost the plan!"
-date: 2021-12-13 
 ---
 
 **Optional:** I use remote access to the desktop using the followin command
