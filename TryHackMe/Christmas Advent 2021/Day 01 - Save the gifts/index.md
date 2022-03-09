@@ -1,5 +1,5 @@
 ---
-title: "[Day 01] - Save the gifts!"
+Title: "[Day 01] - Save the gifts!"
 ---
 
 1. After finding Santa's account, what is their position in the company?
@@ -38,4 +38,4 @@ On the Grinch activity page, I notice that there are "Revert" buttons. After rev
 -> Answer: THM{AOC_IDOR_2B34BHI3}
 
 
-[Day 2](../Day%2008%20-%20Special%20by%20John%20Hammond%20-%20Santa's%20bag%20of%20toys/index.md)
+[Day 02 >>](../Day%2002%20-%20Elf%20HR%20Problems/index.md)
