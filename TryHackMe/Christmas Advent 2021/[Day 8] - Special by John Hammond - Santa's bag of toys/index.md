@@ -1,6 +1,5 @@
 ---
 title: "[Day 8] - Special by John Hammond - Santa's bag of toys"
-date: 2021-12-08 
 ---
 
 
