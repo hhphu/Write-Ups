@@ -1,6 +1,10 @@
 
 ## [Day 02] - Elf HR Problems
 
+### Objectives
+* Understanding the underlying technology of web servers and how the web communicates.
+* Understand what cookies are and their purpose.
+* Learn how to manipulate and manage cookies for malicious use.
 
 ### Walkthrough
 1. What is the name of the new cookie that was created for your account?
