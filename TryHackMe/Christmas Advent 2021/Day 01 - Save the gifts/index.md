@@ -1,15 +1,15 @@
-```
-*Room:* Advent of Cyber 3 (2021)
-*Title:* "[Day 01] - Save the gifts!"
-```
+ ## [Day 01] - Save the gifts!
 
 
+### Walkthrough
 1. After finding Santa's account, what is their position in the company?
 When "Your Activity" tab is clicked, it displays default user_id=11. When trying to change the user_id from 1 to 20, Iget all information about Santa, whose user_id=1
 
 ![image](./images/d1q1.png)
-
--> Answer: The Boss!
+<details>
+  <Summary>Answer</Summary>
+  The Boss!
+</details>
 
 ----------
 
@@ -19,7 +19,10 @@ Continue trying user_id from 1 to 20, I get McStocker's account, whose user_id=3
 
 ![image](./images/d1q2.png)
 
--> Answer: Build Manager
+<details>
+  <Summary>Answer</Summary>
+  Build Manager
+</details>
 
 ----------
 
@@ -28,7 +31,12 @@ Similarly, I get the user_id=9
 
 ![image](./images/d1q3.png)
 
--> Answer: Mischief Manager
+<details>
+  <Summary>Answer</Summary>
+  Build Manager
+  Mischief Manager
+</details>
+
 
 ----------
 
@@ -37,7 +45,12 @@ On the Grinch activity page, I notice that there are "Revert" buttons. After rev
 
 ![image](./images/d1q4.png)
 
--> Answer: THM{AOC_IDOR_2B34BHI3}
+<details>
+  <Summary>Answer</Summary>
+  Build Manager
+  THM{AOC_IDOR_2B34BHI3}
+</details>
+
 
 
 [Day 02 >>](../Day%2002%20-%20Elf%20HR%20Problems/index.md)
