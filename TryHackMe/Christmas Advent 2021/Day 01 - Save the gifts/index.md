@@ -1,5 +1,9 @@
  ## [Day 01] - Save the gifts!
 
+### Objectives
+Learn about IDOR vulnerability, how to find and exploit IDOR vulnerabilities.
+
+### [Resources](https://tryhackme.com/room/adventofcyber3)
 
 ### Walkthrough
 1. After finding Santa's account, what is their position in the company?
