@@ -1,7 +1,12 @@
----
-Title: "[Day 02] - Elf HR Problems"
----
 
+## [Day 02] - Elf HR Problems
+
+### Objectives
+* Understanding the underlying technology of web servers and how the web communicates.
+* Understand what cookies are and their purpose.
+* Learn how to manipulate and manage cookies for malicious use.
+
+### Walkthrough
 1. What is the name of the new cookie that was created for your account?
 After an attempt to sign up for a new account, I inspect the page on the Applicaiton tab to see the cookie.
 
@@ -13,13 +18,18 @@ After an attempt to sign up for a new account, I inspect the page on the Applica
 
 ![image](./images/d2q1.png)
 
--> Answer: user-auth 
+<details>
+  <Summary>Answer</Summary>
+    user-auth 
+</details>
 
 ----------------------------
 
 2. What encoding type was used for the cookie value?
-
--> Answer: hexadecimal
+<details>
+  <Summary>Answer</Summary>
+    hexadecimal
+</details>
 
 -----------------------------
 
@@ -34,7 +44,10 @@ I can use [CyberChef](https://gchq.github.io/CyberChef/) to decode the cookies.
 
 ![image](./images/d2q3.png)
 
--> Answer: JSON
+<details>
+  <Summary>Answer</Summary>
+    JSON
+</details>
 
 ------------------------------
 
@@ -52,7 +65,11 @@ Using the same tool CyberChef, i can get the cookie value of username = admin
 
 ![image](./images/d2q4.png)
 
--> Answer: 7b636f6d70616e793a2022546865204265737420466573746976616c20436f6d70616e79222c206973726567697374657265643a2254727565222c20757365726e616d653a2261646d696e227d
+<details>
+  <Summary>Answer</Summary>
+    7b636f6d70616e793a2022546865204265737420466573746976616c20436f6d70616e79222c206973726567697374657265643a2254727565222c20757365726e616d653a2261646d696e227d
+</details>
+ 
 
 --------------------------------
 
@@ -67,13 +84,19 @@ After getting the cookie value of admin, I can use that to bypass the login auth
 
 ![image](./images/d2q5.png)
 
--> Answer: HR
+<details>
+  <Summary>Answer</Summary>
+    HR
+</details>
 
 -----------------------------
 
 6. What team environment has networking warning?
 Refer to the image above, we can see the anser is Application.
 
--> Answer: Application
+<details>
+  <Summary>Answer</Summary>
+    Application
+</details>
 
 [<< Day 01](../Day%2001%20-%20Save%20the%20gifts/index.md) | [Day 03 >>](../Day%2003%20-%20Christmas%20Blackout/index.md)
