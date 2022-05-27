@@ -57,4 +57,4 @@ On the Grinch activity page, I notice that there are "Revert" buttons. After rev
 
 
 
-[Day 02 >>](../Day%2002%20-%20Elf%20HR%20Problems/index.md)
+[Day 02 >>](../Day%2002%20-%20Elf%20HR%20Problems/README.md)
