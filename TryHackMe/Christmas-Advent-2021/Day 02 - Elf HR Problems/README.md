@@ -99,4 +99,4 @@ Refer to the image above, we can see the anser is Application.
     Application
 </details>
 
-[<< Day 01](../Day%2001%20-%20Save%20the%20gifts/index.md) | [Day 03 >>](../Day%2003%20-%20Christmas%20Blackout/index.md)
+[<< Day 01](../Day%2001%20-%20Save%20the%20gifts/README.md) | [Day 03 >>](../Day%2003%20-%20Christmas%20Blackout/README.md)
